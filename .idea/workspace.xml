@@ -7,7 +7,6 @@
     <list default="true" id="c03af4c6-b926-4b68-8a0e-2e2c7e9ad6fe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/similarity.pkl" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778262084223</updated>
-      <workItem from="1778262085232" duration="16244000" />
+      <workItem from="1778262085232" duration="17527000" />
     </task>
     <servers />
   </component>
